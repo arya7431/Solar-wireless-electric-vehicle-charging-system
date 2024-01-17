@@ -1,0 +1,19 @@
+WORKING PRINCIPLE
+
+
+1. Solar Panel
+Solar energy is transformed into electrical energy by solar panels. They make advantage of the photoelectric effect theory, which states that when light strikes a solar panel, electrons are emitted. 
+2. Batteries (Power Supply)
+Batteries are particularly useful as a power supply in situations where a stable source of power is not available or where mobility is important. 
+3. Step Up Transformer
+The low voltage (LV) and high current from the primary side of the transformer are converted to the high voltage (HV) and low current value on the secondary side of the transformer by a step-up transformer. 
+4. MOSFET
+The metal–oxide–semiconductor field-effect transistor. Multiple outputs and overcurrent and overvoltage features are possible with an AC/DC converter.
+5. Transmission Coil
+This coil is employed to transfer power to the wireless power receiver coil in CAR SYSTEM. This gets power from Grid and solar panels. The transmitting coil is 28 gauge and 32 gauge
+6. Receiving Coil
+The fundamental components of the receiver section are the receiving inductor coil, the bridge rectifier, the voltage regulator, and the rechargeable battery.
+7 Bridge Rectifier
+Alternating current is changed into direct current using a bridge rectifier. When compared to a centre tapped full wave rectifier, it offers excellent rectification efficiency (82%) and cheap implementation costs. It uses a 1N4007 diode.
+8. DC Battery
+The electric vehicle battery or hybrid electric vehicle's electric motors are mainly powered by a rechargeable battery which is known as electric vehicle battery also referred to as a traction battery.
